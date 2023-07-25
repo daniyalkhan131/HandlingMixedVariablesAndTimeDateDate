@@ -11,3 +11,9 @@ or can have data like in one col- d,c,r,1,4,7,a,b so here we create two cols one
 categorical and other num. data and for a num. data corresponding cat. data will be NA
 and vice versa
 
+date and time-
+
+a lot of information is hidden in date 23 sug 2020
+like day,month,year,dayofweek,quarter,semester,weekendornot,....etc
+
+hrs,min,seconds in time
